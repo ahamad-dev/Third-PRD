@@ -1,0 +1,45 @@
+========================================================
+                 STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STU105
+Student Name               : shakthi saravanth
+Age                        : 27
+Email                      : shakthi@gmail.com
+Course                     : 3
+Semester                   : 4
+Career Goal                : Become a Java backend developer
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 90
+SQL Marks                  : 90
+Web Technology Marks       : 90
+Aptitude Marks             : 90
+Communication Marks        : 90
+Total Marks                : 450/500
+Percentage                 : 90.00%
+Academic Result            : PASSED
+Grade                  : A+
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 100
+Classes Attended           : 90
+Attendance Percentage       : 90.00%
+Attendance Status          : REGULAR
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 2
+Assignment Total           : 14
+Assignment Average          : 7.00
+Assignment Status          : SATISFACTORY
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : 50000.00
+Scholarship Percentage     : 10%
+Scholarship Amount          : 5000.00
+Final Payable Fee           : 45000.00
+Amount Paid                 : 45000.00
+Fee Balance                 : 0.00
+Fee Status                 : PAID
+---------------- FINAL STATUS ------------------------
+Semester Clearance         : CLEARED FOR NEXT SEMESTER
+---------------- FAILED CONDITIONS -------------------
+None
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================

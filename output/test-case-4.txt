@@ -1,0 +1,50 @@
+========================================================
+                    STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STU101
+Student Name               : raju k
+Age                        : 26
+Email                      : raju@gmail.com
+Course                     : 1
+Semester                   : 4
+Career Goal                : want to become a java developer
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 40
+SQL Marks                  : 40
+Web Technology Marks       : 40
+Aptitude Marks             : 40
+Communication Marks        : 40
+Total Marks                : 200/500
+Percentage                 : 40.00%
+Academic Result            : PASSED
+Grade                  : D
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 100
+Classes Attended           : 70
+Attendance Percentage       : 70.00%
+Attendance Status          : SHORTAGE
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 10
+Assignment Total           : 70
+Assignment Average          : 7.00
+Assignment Status          : SATISFACTORY
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : 35000.00
+Scholarship Percentage     : 0%
+Scholarship Amount          : 0.00
+Final Payable Fee           : 35000.00
+Amount Paid                 : 20000.00
+Fee Balance                 : 15000.00
+Fee Status                 : PENDING
+---------------- FINAL STATUS ------------------------
+Semester Clearance         : ACTION REQUIRED
+---------------- FAILED CONDITIONS -------------------
+Attendance is below 75%.
+Semester fee is pending
+---------------- RECOMMENDATIONS ---------------------
+Attend classes regularly and clear the attendance shortage.
+Pay the pending semester fee before clearance.
+========================================================
+Do you want to process another student , Enter the choice
+1.Yes
+0. No

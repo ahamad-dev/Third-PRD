@@ -1,0 +1,48 @@
+========================================================
+                    STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STU103
+Student Name               : ram p
+Age                        : 34
+Email                      : ram@gmail.com
+Course                     : 4
+Semester                   : 8
+Career Goal                : want to become a java developer
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 40
+SQL Marks                  : 40
+Web Technology Marks       : 40
+Aptitude Marks             : 40
+Communication Marks        : 40
+Total Marks                : 200/500
+Percentage                 : 40.00%
+Academic Result            : PASSED
+Grade                  : D
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 100
+Classes Attended           : 75
+Attendance Percentage       : 75.00%
+Attendance Status          : REGULAR
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 3
+Assignment Total           : 15
+Assignment Average          : 5.00
+Assignment Status          : SATISFACTORY
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : 45000.00
+Scholarship Percentage     : 0%
+Scholarship Amount          : 0.00
+Final Payable Fee           : 45000.00
+Amount Paid                 : 45000.00
+Fee Balance                 : 0.00
+Fee Status                 : PAID
+---------------- FINAL STATUS ------------------------
+Semester Clearance         : CLEARED FOR NEXT SEMESTER
+---------------- FAILED CONDITIONS -------------------
+None
+---------------- RECOMMENDATIONS ---------------------
+Maintain the current performance in the next semester.
+========================================================
+Do you want to process another student , Enter the choice
+1.Yes
+0. No

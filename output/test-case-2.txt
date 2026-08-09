@@ -1,0 +1,43 @@
+========================================================
+                    STUDENT SEMESTER REPORT
+========================================================
+Student ID                 : STU102
+Student Name               : karthik k
+Age                        : 22
+Email                      : karthik@gmail.com       
+Course                     : 2
+Semester                   : 4
+Career Goal                : want to become a front-end developer
+---------------- ACADEMIC SUMMARY --------------------
+Java Marks                 : 90
+SQL Marks                  : 90
+Web Technology Marks       : 90
+Aptitude Marks             : 30
+Communication Marks        : 90
+Total Marks                : 390/500
+Percentage                 : 78.00%
+Academic Result            : FAILD
+Grade                  : F
+---------------- ATTENDANCE SUMMARY ------------------
+Classes Conducted          : 120
+Classes Attended           : 102
+Attendance Percentage       : 85.00%
+Attendance Status          : REGULAR
+---------------- ASSIGNMENT SUMMARY ------------------
+Valid Assignments          : 5
+Assignment Total           : 41
+Assignment Average          : 8.00
+Assignment Status          : SATISFACTORY
+---------------- FEE SUMMARY -------------------------
+Base Semester Fee           : 30000.00
+Scholarship Percentage     : 0%
+Scholarship Amount          : 0.00
+Semester Clearance         : ACTION REQUIRED
+---------------- FAILED CONDITIONS -------------------
+Aptitude marks are below 35
+---------------- RECOMMENDATIONS ---------------------
+Revisit the failed subject and complete additional practice.
+========================================================
+Do you want to process another student , Enter the choice
+1.Yes
+0. No
