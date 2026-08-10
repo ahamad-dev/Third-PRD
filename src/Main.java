@@ -331,7 +331,7 @@ public class Main {
             System.out.println("Academic Result            : " + academic_status);
             // FR-06: Grade Classification
 
-            if (percentage >= 85) {
+            if (percentage >= 85 && percentage <= 100 && academic) {
                 System.out.println("Grade                  : A+");
 
             } else if (percentage >= 75 && academic) {
